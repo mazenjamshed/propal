@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "977434367253",
+    "project_id": "propal-706fe",
+    "storage_bucket": "propal-706fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977434367253:android:a24e959fba4ace66a6851c",
+        "android_client_info": {
+          "package_name": "com.propal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "977434367253-e4jdhi62ndjljmn33353a5k1df1eqdpf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPappDlP7oKG0irSV6_Cf_Az_LYamUZv0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "977434367253-e4jdhi62ndjljmn33353a5k1df1eqdpf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
